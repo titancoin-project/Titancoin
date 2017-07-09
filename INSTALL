@@ -1,0 +1,9 @@
+Building Titancoin
+
+See doc/readme-qt.rst for instructions on building Titancoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Titancoin.
+
+See doc/build-*.txt for instructions on building titancoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Titancoin.
